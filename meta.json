@@ -1,0 +1,38 @@
+{
+    "classes": [
+        {
+            "title": "crosswalk",
+            "shape": "rectangle",
+            "color": "#3CB44B",
+            "geometry_config": {},
+            "id": 20406,
+            "hotkey": ""
+        },
+        {
+            "title": "speedlimit",
+            "shape": "rectangle",
+            "color": "#E6194B",
+            "geometry_config": {},
+            "id": 20405,
+            "hotkey": ""
+        },
+        {
+            "title": "stop",
+            "shape": "rectangle",
+            "color": "#911EB4",
+            "geometry_config": {},
+            "id": 20404,
+            "hotkey": ""
+        },
+        {
+            "title": "trafficlight",
+            "shape": "rectangle",
+            "color": "#FFE119",
+            "geometry_config": {},
+            "id": 20403,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
